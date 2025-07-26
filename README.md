@@ -1,2 +1,2 @@
 # TODO
-osasis intership 
+oasis intership 
